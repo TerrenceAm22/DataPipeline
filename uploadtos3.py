@@ -38,5 +38,5 @@ def create_bucket(bucket_name, region=None):
 # create_bucket('rawjson-data')
 
 
-data = open(r'/Users/selah/Documents/Data/DataPipeline/top50_data.json', 'rb')
-s3.Bucket('rawjson-data').put_object(Key='top50_data.json', Body=data)
+data = open(r'C:\Users\TMalone\Documents\DataMigration\DataPipeline\top50_songs.csv', 'rb')
+s3.Bucket('rawjson-data').put_object(Key='top50song.csv', Body=data)

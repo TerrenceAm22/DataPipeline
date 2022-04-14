@@ -1,0 +1,51 @@
+,artist,artist_uri,song,song_uri,duration_ms,explicit,album,popularity
+0,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,Rapper Estates (feat. Benny The Butcher),spotify:track:3cYuqoOhuXjx4iB9ttHn6E,203207,True,Richer Than I Ever Been,58
+1,Megan Thee Stallion,spotify:artist:181bsRPaVXVlUKXrxwZfHK,Bae Goals,spotify:track:5bnqxdR3sr2tJD34WJOSXW,148906,True,Something for Thee Hotties,51
+2,MO3,spotify:artist:44JEJiBvti7NiEhAfzWstv,Outside (Better Days),spotify:track:2AJvoUXSml9cDzQdsk1pEG,215495,True,Outside (Better Days),57
+3,Nena,spotify:artist:6Tz0QRoe083BcOo2YbG9lV,99 Luftballons,spotify:track:4ZhPLoMzZwewHLLjV1J15c,232466,False,Nena,74
+4,Benny,spotify:artist:0FLCcVf9KtU6ZrmYHp4nEJ,Man of the Kitchen,spotify:track:7zgz8Pn4QpjqPvkE3zPnQR,116832,True,Stabbed & Shot,42
+5,Nicki Minaj,spotify:artist:0hCNtLu0JehylgoiP8L4Gh,Save Me,spotify:track:1hn9nQ8TR8Le4EpHN2oCyE,185413,True,Pink Friday,54
+6,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Bust A Brick Nick,spotify:track:0hG9tIK4ce1gn7yO2KnK7J,224146,True,Tana Talk 4,56
+7,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Johnny P's Caddy,spotify:track:6AshXllQhobwSXsdpgp41w,225000,True,Johnny P's Caddy,74
+8,Kevin Gates,spotify:artist:1gPhS1zisyXr5dHTYZyiMe,Big Gangsta,spotify:track:03ERnTvSV5fy8WAyvA4uNP,243462,True,Big Gangsta,69
+9,Isaiah Rashad,spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM,RIP Young (feat. Project Pat & Juicy J) - Remix,spotify:track:6GUiCjtZGTvgUKKm1w9mwG,180000,True,The House Is Burning [homies begged],60
+10,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,The Pulitzer,spotify:track:6UUEMk7L7WqxZMW6sJjhMN,138914,True,Richer Than I Ever Been,54
+11,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Spineless,spotify:track:2suAn4cfWXGPweIQEDx2xw,141818,True,Trust The Sopranos,30
+12,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Shop Around,spotify:track:5ZxEeRGM60YT3M2pOlkmJW,159770,False,Wiz Got Wings,24
+13,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Player Of The Year,spotify:track:5ZzU8yiOLLIOWVmmyw1R3H,175865,False,Wiz Got Wings,34
+14,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Can't Stay Sober,spotify:track:5hWB7admPIuxuHr4DhyS14,182276,False,Wiz Got Wings,37
+15,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Immunity,spotify:track:2m0Yk7b6ctH8jUbm0qpw17,165185,True,Trust The Sopranos,31
+16,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,The Finer Things,spotify:track:32V3CCTIY2m91c68XNHcYu,185286,False,Wiz Got Wings,28
+17,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Blacc Tarantino,spotify:track:3LrpbNrJEqlhRfmQFtdZft,163499,False,Wiz Got Wings,34
+18,TLC,spotify:artist:0TImkz4nPqjegtVSMZnMRq,No Scrubs,spotify:track:1KGi9sZVMeszgZOWivFpxs,214400,False,Fanmail,80
+19,Kanye West,spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,Life Of The Party (with AndrÃ© 3000),spotify:track:2yBb1CRq98SSWRuDSn36SZ,391656,False,Donda (Deluxe),66
+20,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,Marathon,spotify:track:6MwWuXDYXBLmrz6NrTHHnD,222155,True,Richer Than I Ever Been,48
+21,Rick Hyde,spotify:artist:5bgr1sPXFeiNuS4vARMZp1,Alone,spotify:track:0MulMeQkCFOw5aDtwOz2zx,276427,True,Alone,30
+22,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Personal Party,spotify:track:5eQ24xbCZgRi2w8M6atxK0,185928,False,Wiz Got Wings,27
+23,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Solid Gold,spotify:track:4l6SQ8lxXv9JeBW2nMTVkU,178222,False,Wiz Got Wings,26
+24,Taylor Swift,spotify:artist:06HL4z0CvFAxyc27GXpf02,I Think He Knows,spotify:track:2YWtcWi3a83pdEg3Gif4Pd,173386,False,Lover,72
+25,Eminem,spotify:artist:7dGJo4pcD2V6oG8kP0tJRR,"You Gonâ€™ Learn (feat. Royce Da 5'9"" & White Gold)",spotify:track:0GQ5bFTVFFKpwNPc7KwQnB,234653,True,Music To Be Murdered By,69
+26,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Dr. Dankenstien,spotify:track:0Fb21ZjfGP0vThVoe4F40C,234980,False,Wiz Got Wings,30
+27,38 Spesh,spotify:artist:32cT1WQRSDg4xsReG7eqyT,So Strategic,spotify:track:0qZIZjyGFuzSfSALD4Xxwl,171739,True,Stabbed & Shot,36
+28,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Thowy's Revenge,spotify:track:7rkJh3dzU6zMugz863ScA9,179586,True,Tana Talk 4,59
+29,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Purple Fantasy,spotify:track:5wS00eGQhlc1ncv6h69MPm,223188,False,Wiz Got Wings,28
+30,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Wiz Got Wings,spotify:track:3kp6eQYEuSu8qEkw4Hlw9M,144457,False,Wiz Got Wings,28
+31,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,2 Stoned For TV,spotify:track:4NJ7FP7dntCzBm4cTGXszG,179215,False,Wiz Got Wings,25
+32,Carly Rae Jepsen,spotify:artist:6sFIWsNpZYqfjUpaCgueju,Curiosity,spotify:track:2xrK7AOAWok7NY4WuqeApq,213120,False,Kiss (Deluxe),35
+33,J. Cole,spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,Love Yourz,spotify:track:2e3Ea0o24lReQFR4FA7yXH,211496,True,2014 Forest Hills Drive,75
+34,Relient K,spotify:artist:3nJWBJvK7uGvfp4iZh9CkN,High of 75,spotify:track:3Y9Viu51MzcTMTGPDeX5AQ,147813,False,Mmhmm,50
+35,Kevin Gates,spotify:artist:1gPhS1zisyXr5dHTYZyiMe,I Don't Get Tired (#IDGT) (feat. August Alsina),spotify:track:6HMHgBHdLBQ0QYIaOp2gse,209707,True,Luca Brasi 2: Gangsta Grillz,67
+36,Nas,spotify:artist:20qISvAhX20dpIbOOzGK3q,Speechless,spotify:track:1N9fCcMU7wCXbNO3EpwPkd,186934,True,Magic,60
+37,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,More Than Ever,spotify:track:2mf9zaGimn6KtFdr1zxmhP,153137,False,Wiz Got Wings,25
+38,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,Warm Words in a Cold World (feat. Wale & Future),spotify:track:7MXMsxYGTcU0tD54EnBL9f,220521,True,Richer Than I Ever Been,53
+39,J. Cole,spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,t h e . c l i m b . b a c k,spotify:track:5lLNBIyjp72btcnrjBG751,306257,True,The Off-Season,67
+40,Outkast,spotify:artist:1G9G7WwrXka3Z1r7aIDjI7,Aquemini,spotify:track:4V3N5LvUOh3yDPP16cwAhE,319240,True,Aquemini,58
+41,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,Know Better,spotify:track:2M8ji4gKN8b9aLkCT6rNJY,198848,False,Wiz Got Wings,24
+42,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,Wiggle (feat. DreamDoll),spotify:track:5tynriqAe4jL3wVUKbTKtJ,161525,True,Richer Than I Ever Been,50
+43,J. Cole,spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,Born Sinner (feat. James Fauntleroy),spotify:track:47A2jHhdcuOozYPYhttXPs,209360,True,Born Sinner (Deluxe Version),57
+44,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Corner,spotify:track:7qMXAGTEaDFQ2hkAmC9fCn,168000,True,Trust The Sopranos,32
+45,Benny The Butcher,spotify:artist:5Matrg5du62bXwer29cU5T,Load Up,spotify:track:1365V6qsMpwxLS9IVMKHMR,147075,True,Trust The Sopranos,26
+46,Wiz Khalifa,spotify:artist:137W8MRPWKqSmrBGDBFSop,The Kid Frankie Pt. 2,spotify:track:5N5zoOFM3MD3EV28N560Zv,194040,False,Wiz Got Wings,26
+47,Nas,spotify:artist:20qISvAhX20dpIbOOzGK3q,Wave Gods,spotify:track:14246VCxRDGZHqlMlqWSz4,190261,True,Magic,69
+48,Carly Rae Jepsen,spotify:artist:6sFIWsNpZYqfjUpaCgueju,Boy Problems,spotify:track:2YalDCU0tWxJfNdFPor3Rh,222280,False,Emotion,42
+49,Rick Ross,spotify:artist:1sBkRIssrMs1AbVkOJbc7a,Made it Out Alive (feat. Blxst),spotify:track:3mWJNYOBWAHAdivbAoNbO3,218432,True,Richer Than I Ever Been,49
